@@ -11,6 +11,11 @@ You will also see any lint errors in the console.
 
 Demo :
 
+
+### /home
+
 ![./img1.png](./img1.png)
+
+### /hero/:id
 
 ![./img2.png](./img2.png)
